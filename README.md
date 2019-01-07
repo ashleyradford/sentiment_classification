@@ -8,7 +8,7 @@ The other approach relies on a parsimonious rule-based model for sentiment analy
 
 You will need to have:
 - Jupyter Notebook
-- cjhutto's vaderSentiment repository [materials](https://github.com/cjhutto/vaderSentiment).
+- CJ Hutto's vaderSentiment repository [materials](https://github.com/cjhutto/vaderSentiment).
 - `feature_extractors.py` from Dipanjan Sarkar's [chapter 4](https://github.com/dipanjanS/text-analytics-with-python/tree/master/Old_Edition_v1/notebooks/Ch04_Text_Classification).
 
 ## Data Download
